@@ -508,3 +508,25 @@
   508  git config --list
   509  git init
   510  history > history
+  511  git add history
+  512  git status
+  513  git commit -m 'This is supposed to add my history to my repository'
+  514  it remote add origin https://github.com/bbuescher/myopenstacl.git
+  515  git remote add origin https://github.com/bbuescher/myopenstacl.git
+  516  git push origin master
+  517  git remote add origin https://github.com/bbuescher/myopenstack.git
+  518  git push origin master
+  519  git remote add origin https://github.com/bbuescher/myopenstack.git
+  520  git push origin master
+  521  it remote add origin https://github.com/bbuescher/myopenstacl.git
+  522  git remote add origin https://github.com/bbuescher/myopenstack.git
+  523  cd ~/myopenstack
+  524  git remote add origin https://github.com/bbuescher/myopenstack.git
+  525  git push origin master
+  526  yum install git
+  527  git config --global user.name "--- Place your name here ---"
+  528  it config --global user.name "--- Place your name here ---"
+  529  git config --global user.name "--- Place your name here ---"
+  530  git config --global user.email "---your_email@example.com---"
+  531  git config --list
+  532  history > history
